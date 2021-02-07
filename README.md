@@ -15,3 +15,9 @@ This is the only data storage place I know I wont forget about...
 * Def super legit
 * If you like mushrooms, put more into this than you are expecting (they shrink)
 * On the rich side, but not as much as the Olive Garden
+
+### [Texas Pulled Pork](https://www.allrecipes.com/recipe/92462/slow-cooker-texas-pulled-pork/)
+
+* Very tasty
+* On the wet side, but goes great on sandwiches if youll eat it quick
+* Great on quesaldillas as well
