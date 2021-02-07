@@ -2,6 +2,13 @@
 
 This is the only data storage place I know I wont forget about...
 
+## Roadmap
+
+### [Pork Ramen](https://www.chowhound.com/recipes/slow-cooker-pork-ramen-31178)
+
+* Recommended by a coworker
+* Pork is quite tasty, as is ramen, so hopes are high for this
+
 ## Tried and True
 
 ### [Olive Garden Chicken Pasta](https://www.themagicalslowcooker.com/slow-cooker-olive-garden-chicken-pasta/)
