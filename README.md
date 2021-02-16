@@ -2,13 +2,6 @@
 
 This is the only data storage place I know I wont forget about...
 
-## Roadmap
-
-### [Pork Ramen](https://www.chowhound.com/recipes/slow-cooker-pork-ramen-31178)
-
-* Recommended by a coworker
-* Pork is quite tasty, as is ramen, so hopes are high for this
-
 ## Tried and True
 
 ### [Olive Garden Chicken Pasta](https://www.themagicalslowcooker.com/slow-cooker-olive-garden-chicken-pasta/)
@@ -28,3 +21,10 @@ This is the only data storage place I know I wont forget about...
 * Very tasty
 * On the wet side, but goes great on sandwiches if youll eat it quick
 * Great on quesaldillas as well
+
+## A Lot of Work
+
+### [Pork Ramen](https://www.chowhound.com/recipes/slow-cooker-pork-ramen-31178)
+
+* This was tasty, but required a lot of up front prep
+* I also wasnt sure if you could premake all the ramen at once so it ended up not being super plug and play for eating after it was made
